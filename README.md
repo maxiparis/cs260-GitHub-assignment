@@ -12,8 +12,7 @@ receiving the latest information on the go, ensuring that everyone is always up 
 
 ### Design
 
-[submit picture ⬇️]
-![Mock]()
+![Mock](images/mock.jpg)
 
 ### Key features
 
