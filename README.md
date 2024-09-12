@@ -1,3 +1,3 @@
-# cs260-GitHub-assignment
+# Startup
 
-# commit test 4
+Startup application for BYU CS 260
