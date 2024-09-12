@@ -13,7 +13,7 @@ receiving the latest information on the go, ensuring that everyone is always up 
 ### Design
 
 [submit picture ⬇️]
-![Mock](voterMockUI.jpg)
+![Mock]()
 
 ### Key features
 
